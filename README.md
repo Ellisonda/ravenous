@@ -1,5 +1,7 @@
 link: https://ravenoustry-4i35v1n45.now.sh/
 
+About
+Ravenous is a project I built while undertaking Codecademy's Front-End React Course (https://www.codecademy.com/). It makes use of Yelp's API to search for Places of interest in a particular area and sorting them either by Rating, Best Match or Most Reviewed.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
